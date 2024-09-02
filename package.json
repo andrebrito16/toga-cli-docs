@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "toga-cli-docs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Toga CLI Docs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,12 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/shuding/nextra-docs-template.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "André Brito",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/andrebrito16/toga-cli-docs/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/andrebrito16/toga-cli-docs#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
